@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @joec2809
-- I'm a PhD at the Institute of Cosmology and Gravitation in Portsmouth
+- 👋 Hi, I’m Joe
+- I'm a PhD student at the Institute of Cosmology and Gravitation in Portsmouth
 - My research is looking at tidal disruption events, by looking for spectra in SDSS and DESI
 
 <!---
