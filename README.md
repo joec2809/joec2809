@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joe
+- 👋 Hi, I’m Joe Callow
 - I'm a PhD student at the Institute of Cosmology and Gravitation in Portsmouth
 - My research is looking at extreme coronal line emitters (ECLEs) in SDSS data and whether they are as a result of tidal disruption events
 
