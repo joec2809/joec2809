@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joe
 - I'm a PhD student at the Institute of Cosmology and Gravitation in Portsmouth
-- My research is looking at tidal disruption events, by searching for iron coronal lines in spectra in SDSS and DESI
+- My research is looking at extreme coronal line emitters (ECLEs) in SDSS data and whether they are as a result of tidal disruption events
 
 <!---
 joec2809/joec2809 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
