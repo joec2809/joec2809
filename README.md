@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Joe Callow
-- I'm a PhD student at the Institute of Cosmology and Gravitation in Portsmouth
-- My research is looking at extreme coronal line emitters (ECLEs) in SDSS data and whether they are as a result of tidal disruption events
-
-<!---
-joec2809/joec2809 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Joseph Callow.
+- I'm a PhD student at the Institute of Cosmology and Gravitation, University of Portsmouth.
+- I'm using statistical analysis of large data sets to determine properties of a type of transient called an extreme coronal line emitter (ECLE).
+- My main focus is finding signatures of these ECLEs in large spectroscopic surveys and determining the rate at which they occur.
+- This requires knowledge of how to handle big data and what techniques are needed to extract the information I need.
