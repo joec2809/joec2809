@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Joseph Callow.
-- I'm a PhD student at the Institute of Cosmology and Gravitation, University of Portsmouth.
-- I'm using statistical analysis of large data sets to determine properties of a type of transient called an extreme coronal line emitter (ECLE).
-- My main focus is finding signatures of these ECLEs in large spectroscopic surveys and determining the rate at which they occur.
-- This requires knowledge of how to handle big data and what techniques are needed to extract the information I need.
+- I'm a PhD Graduate from the Institute of Cosmology and Gravitation, University of Portsmouth.
+- I used statistical analysis of large data sets to determine the properties and rates of spectral transients.
+- I'm now a data scientist, looking to use these skills to make a positive difference.
